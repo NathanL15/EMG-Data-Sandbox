@@ -1,1 +1,1 @@
-Just working on some fine-tuning RNN generalization
+Just working on fine-tuning RNN generalization
